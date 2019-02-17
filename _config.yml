@@ -17,9 +17,9 @@ email: tmoore@ucjazz.berkeley.edu
 # baseurl: "/ucjazz_site" # the subpath of your site, e.g. /blog
 
 # for local development
-baseurl: ""
+baseurl: "/"
 
-url: "" # the base hostname & protocol for your site
+url: "https://treyfortmuller.github.io/ucjazz_site/" # the base hostname & protocol for your site
 
 # social outlets for the site
 facebook: https://facebook.com/ucjazz/
