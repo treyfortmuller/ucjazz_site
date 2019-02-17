@@ -2,6 +2,9 @@
 
 The UC Jazz Ensembles website, built with Jekyll and hosted by OCF on campus at UC Berkeley.
 
+This is my personal copy of the site, different from the official UC Jazz website:
+https://treyfortmuller.github.io/ucjazz_site/
+
 ### Based on:
 
 ```
